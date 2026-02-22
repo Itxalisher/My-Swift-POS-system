@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ SwiftPay POS System
 
 A full-stack Point of Sale app for small merchants — React frontend + Node.js/Express backend + SQLite database.
@@ -132,3 +133,34 @@ All prices are in **GBP (£)** with **20% UK VAT** applied at checkout.
 | Backend | Node.js, Express |
 | Database | SQLite via better-sqlite3 |
 | Fonts | Syne + JetBrains Mono (Google Fonts) |
+=======
+📌 Detailed Description
+
+MySwift POS System is a full-stack Point of Sale (POS) application developed to streamline retail business operations. The system allows users to manage products, process sales, track inventory, handle customer data, and generate reports in real time.
+
+🔹 Features:
+
+Product and inventory management
+
+Sales and billing system
+
+Customer management
+
+Dashboard with reports and analytics
+
+Secure authentication system
+
+Responsive and user-friendly interface
+
+🔹 Tech Stack:
+
+(You can edit this part according to your project)
+
+Frontend: React.js
+
+Backend: Node.js / Express
+
+Database: MongoDB
+
+REST APIs
+>>>>>>> b948be3f540fd1ead71d2f65a76d95e5c2d3ce2b
