@@ -1,18 +1,15 @@
 {
   "name": "swiftpay-pos",
   "version": "1.0.0",
-  "type": "module",
+  "dependencies": {
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x",
+    "vite": "^4.x.x",
+    "@vitejs/plugin-react": "^4.x.x"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
-  },
- "dependencies": {
-  "react": "^18.x.x",
-  "react-dom": "^18.x.x",
-  "vite": "^4.x.x"
-},
-  "scripts": {
-  "build": "vite build"
-}
+    "start": "vite preview"
+  }
 }
